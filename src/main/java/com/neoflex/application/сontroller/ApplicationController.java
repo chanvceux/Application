@@ -1,7 +1,6 @@
 package com.neoflex.application.сontroller;
 import com.neoflex.application.dto.LoanApplicationRequestDTO;
 import com.neoflex.application.dto.LoanOfferDTO;
-import com.neoflex.application.service.ApplicationService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.extern.slf4j.Slf4j;

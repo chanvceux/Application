@@ -11,7 +11,7 @@ import java.util.List;
 
 @Service
 @Slf4j
-public class ApplicationServiceImpl {
+public class ApplicationServiceImpl implements ApplicationService {
     private final DealMC dealMC;
     @Autowired
     public ApplicationServiceImpl(DealMC dealMC) {
