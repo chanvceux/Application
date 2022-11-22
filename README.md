@@ -1,0 +1,3 @@
+# Application
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chanvceux_Application&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=chanvceux_Application)[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=chanvceux_Application&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=chanvceux_Application)[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=chanvceux_Application&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=chanvceux_Application)[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=chanvceux_Application&metric=bugs)](https://sonarcloud.io/summary/new_code?id=chanvceux_Application)
