@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+deal:
+  url: http://${DEAL_URL:localhost}:8081/
